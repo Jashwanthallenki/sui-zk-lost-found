@@ -1,9 +1,9 @@
-````
+````markdown
 # 🧳 ZK Lost and Found – Built on Sui
 
 **ZK Lost and Found** is a decentralized application (dApp) built on the **Sui blockchain** that helps users anonymously report and recover lost items using **zero-knowledge proofs**. This ensures user **privacy**, **authenticity**, and **transparency** in an immutable and tamper-proof system.
 
-🚀 Try the live app here: [sui-zk-lost-found.vercel.app] https://sui-zk-lost-found.vercel.app/
+🚀 Try the live app here: [sui-zk-lost-found.vercel.app](https://sui-zk-lost-found.vercel.app/)
 
 ---
 
@@ -64,7 +64,7 @@ The dApp is built using modern web3 stack:
 cd ./move/my_first_package
 sui move build
 sui move test
-````
+```
 
 ---
 
@@ -148,4 +148,4 @@ pnpm build
 | **Trust Layer**        | Centralized              | Trustless smart contracts |
 | **Data Tampering**     | Possible                 | Immutable on-chain        |
 | **Third-Party Needed** | Yes                      | No intermediary required  |
-
+````
