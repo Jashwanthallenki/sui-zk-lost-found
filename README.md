@@ -3,7 +3,7 @@
 
 **ZK Lost and Found** is a decentralized application (dApp) built on the **Sui blockchain** that helps users anonymously report and recover lost items using **zero-knowledge proofs**. This ensures user **privacy**, **authenticity**, and **transparency** in an immutable and tamper-proof system.
 
-🚀 Try the live app here: [sui-zk-lost-found.vercel.app](<a>https://sui-zk-lost-found.vercel.app/</a>)
+🚀 Try the live app here: [sui-zk-lost-found.vercel.app] https://sui-zk-lost-found.vercel.app/
 
 ---
 
